@@ -131,12 +131,12 @@ In this section you should answer the following questions:
 Created on foreign key columns and frequently queried fields to improve join and filter performance.  
 Example: `project_id` in `staff_project` and `client_id` in `projects`.
 Access the full project index by clicking this link.
-➡️ [SQL Schema](Sql/schema.sql#L110)
+➡️ [Indexes](Sql/schema.sql#L110)
 
 #### **Views**
 Developed views like `project_overview` to consolidate information from multiple tables (projects, clients, staff, budgets).
 Access the full project views by clicking this link.
-➡️ [SQL Schema](Sql/schema.sql#L145) 
+➡️ [Views](Sql/schema.sql#L145) 
 
 These are primarily used for reporting and exporting to Power BI.
 
