@@ -43,7 +43,7 @@ The purpose of this database is to manage the operations of an engineering consu
 **PLACES:🕌** 
 - Projects: locations, including addresses and cities.
 
-**THINGS:📋 **
+**THINGS:📋**
 - Budgets: quotations for proposed work, including status tracking.
 - Equipments: physical tools or machines used in projects.
 - Assignments: which staff and equipment are involved in each project.
@@ -146,11 +146,12 @@ Implemented automation rules to maintain data integrity.
 Example: a *soft delete trigger* in the `staff` table that sets `activo = FALSE` instead of permanently deleting records.
 Together, these optimizations improve database performance, maintain consistency, and simplify analytical workflows.
 Access the triggers by clicking this link.
-➡️ [SQL Schema](Sql/schema.sql#L95)
+➡️ [Triggers](Sql/schema.sql#L95)
 
 ## 7. **Sample Queries and Use Cases** 📊
 For a full set of queries, views, and triggers with example outputs, please refer to the project presentation PDF:  
-➡️ [Project Presentation](CS50_Introduction_to_Databases_with_SQL.pdf)
+
+➡️ [Project Presentation)](./CS50%20Introduction%20to%20Databases%20with%20SQL.pdf)
 
 ## 8. **Integration with Power BI** 📈
 
