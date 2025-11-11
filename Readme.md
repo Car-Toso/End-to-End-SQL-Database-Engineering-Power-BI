@@ -155,12 +155,12 @@ For a full set of queries, views, and triggers with example outputs, please refe
 ## 8. **Integration with Power BI** 📈
 
 After preparing the SQLite3 database, I connected it to Power BI using ODBC and developed three dashboards: an overall overview, a client-focused dashboard, and a dashboard for staff and equipment management.
-
+<p align="center">
 <img src="Assets/Overview.png" width="400" alt="imagen 1">
 <img src="Assets/Clients1.png" width="400" alt="imagen 2">
 <img src="Assets/Staff.png" width="400" alt="imagen 3">
 <img src="Assets/Staff1.png" width="400" alt="imagen 4">
-
+</p>
 ## 9. **Key Findings** ⭐
 
 1. **Project Status📌**
