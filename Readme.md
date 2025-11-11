@@ -154,25 +154,25 @@ For a full set of queries, views, and triggers with example outputs, please refe
 
 ## 8. **Integration with Power BI** 📈
 
->⚠️ This section is under development and will be completed in a future update.  
->It will demonstrate how the SQL database integrates with Power BI for reporting and visualization.
+After preparing the SQLite3 database, I connected it to Power BI using ODBC and developed three dashboards: an overall overview, a client-focused dashboard, and a dashboard for staff and equipment management.
+
+<img src="Assets/Overview.png" width="400" alt="imagen 1">
+<img src="Assets/Clients1.png" width="400" alt="imagen 2">
+<img src="Assets/Staff.png" width="400" alt="imagen 3">
+<img src="Assets/Staff1.png" width="400" alt="imagen 4">
 
 ## 9. **Key Findings** ⭐
 
 1. **Project Status📌**
-    - Out of 10 projects, 6 have been completed, 2 are in progress, and 2 are pending.
+    - Out of 10 projects, 4 were approved, 4 are pending, and 2 were rejected. Of the 4 approved projects, 3 have been completed and 1 is still in progress.
 2. **Budget Performance💰**
-    - 4 projects exceeded their estimated budget (over budget), while 6 projects were under budget. Overall, the total budget variance is +5,000 USD.
-3. **Staff Workload🧑‍💼**
-    - Lucas Fernandez has been assigned 365 hours, 32% more than the next highest employee.
-4. **Team Allocation🛠️**
-    - The “Laser Measurement System” team has the highest hours assigned to active projects (90 hours); it may be worth evaluating the addition of another team.
-5. **Client Activity:**
-    - Foodies Inc is the client with the most projects, totaling 3 active projects.
-6. **Simultaneous Project Assignment:**
-    - Javier Sanchez and Lucas Fernandez are each working on 2 projects simultaneously, which is manageable.
-7. **Projects Over Budget:**
-    - 6 projects have exceeded their allocated budgets, with a total overrun of 18,000 USD.
+    - One project was delivered 5K USD under budget, another project matched its budget exactly, and the remaining two projects exceeded their allocated budgets. The most concerning case is the Irrigation System Upgrade, which shows a budget variance of −10K USD.
+3. **Client Activity: 💸**
+    - AgroPlus Corp is the client with the highest total project amount, representing 39% (130,000 USD).However, Rosario is the city with the largest budget in question
+4. **Staff Workload🧑‍💼**
+    - Engineer Matias Romero has been assigned 215 hours, 48% more than the next highest-allocated employee.
+5. **Team Allocation🛠️**
+    - The Welding Machine has the highest number of hours assigned to active projects (210 hours); it may be worth considering the addition of new equipment. 
 
 ## 10. **Limitations and Future Improvements** ⚠️
 
