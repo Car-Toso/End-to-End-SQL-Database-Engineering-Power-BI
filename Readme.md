@@ -2,9 +2,12 @@
   <img src="Assets/CS50sBanner.png" alt="CS50 SQL Project Banner" style="height:50%; max-height:300px; width:auto;" />
 </p>
 
-# Design Document 🏗️
-
-By Carlos Tosoratto
+# End-to-End-Database-Engineering🏗️
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 
 Video overview: [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
 
